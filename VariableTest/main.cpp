@@ -9,5 +9,8 @@
 
 int main()
 {
-    int x;
+    int x = 5;
+    int y = 7;
+    std::cout << x+y;
+    std::cout << '\n';
 }
